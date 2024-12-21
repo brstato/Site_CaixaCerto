@@ -12,6 +12,12 @@
             "sizes": "1280x720",
             "type": "image/png",
             "form_factor": "wide"
+        },
+        {
+            "src": "screenshot_mobile.png", 
+            "sizes": "540x960", 
+            "type": "image/png", 
+            "form_factor": "narrow"            
         }
     ]
 }
