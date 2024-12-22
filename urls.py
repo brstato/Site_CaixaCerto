@@ -1,1 +1,1 @@
-download = 'https://github.com/brstato/CaixaCerto_Site/releases/download/CaixaCerto/CaixaCerto_setup.exe'
+download = 'https://github.com/brstato/Site_CaixaCerto/releases/download/CaixaCertoSetup/CaixaCerto_setup.exe'
