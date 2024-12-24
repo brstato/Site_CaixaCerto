@@ -1,3 +1,4 @@
+# _*_ coding: utf-8 _*_
 import flet as ft
 from content   import Content
 from footer    import Footer
@@ -51,4 +52,4 @@ class App:
         self.page.add(self.layout)
 
 if __name__ == '__main__':
-    ft.app(target=App, assets_dir='assets')
+    ft.app(target=App, assets_dir='assets', web_renderer='canvaskit')
